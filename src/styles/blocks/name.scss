@@ -20,6 +20,14 @@
   }
 }
 
+#input:-webkit-autofill,
+input:-webkit-autofill:hover,
+input:-webkit-autofill:focus,
+input:-webkit-autofill:active {
+  -webkit-box-shadow: 0 0 0 30px #f8f8fa inset;
+  font-family: Cinzel, sans-serif;
+}
+
 .area {
   padding-top: 16px;
   height: 144px;
@@ -33,5 +41,4 @@
 
 .margin-bottom {
   margin-bottom: 16px;
-
 }
