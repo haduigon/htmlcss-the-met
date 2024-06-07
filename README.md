@@ -4,7 +4,7 @@
 
 I created a stylish website for the New York museum, THE MET. The site is responsive and informative, featuring a contact form. I used vanilla JavaScript, SCSS, and HTML to build it.
 
-# [Demolink](https://haduigon.github.io/htmlscss-the-met/#/)
+# [Demolink](https://haduigon.github.io/htmlcss-the-met/#/)
 
 # Status:
 
@@ -26,7 +26,6 @@ Done
 
 [![CSS](https://img.shields.io/badge/CSS-blue)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
-
 # Usage as always is very simple:
 
 git clone
@@ -39,7 +38,7 @@ npm start
 
 Node version 14
 
-_You may also need (most probably):_  
+_You may also need (most probably):_
 
 npm i parcel@1.12.3 -D
 
@@ -53,4 +52,4 @@ npm i @mate-academy/scripts@1.2.8 -D
 
 # Reflection
 
-I created a stylish, responsive, and informative website for the New York museum, THE MET, featuring a contact form. Using vanilla JavaScript, SCSS, and HTML, I built the site from scratch. Developing this single-page website was extremely useful, as it allowed me to sharpen my HTML, SCSS, and JavaScript skills. The project enhanced my understanding of responsive design and interactive web development, providing valuable experience in creating functional and aesthetically pleasing web pages.  See you later👨‍🦲
+I created a stylish, responsive, and informative website for the New York museum, THE MET, featuring a contact form. Using vanilla JavaScript, SCSS, and HTML, I built the site from scratch. Developing this single-page website was extremely useful, as it allowed me to sharpen my HTML, SCSS, and JavaScript skills. The project enhanced my understanding of responsive design and interactive web development, providing valuable experience in creating functional and aesthetically pleasing web pages. See you later👨‍🦲
