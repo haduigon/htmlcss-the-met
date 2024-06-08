@@ -97,15 +97,19 @@
   text-decoration: none;
   width: 24px;
   height: 24px;
+  position: absolute;
+  top: 15px;
 
   @include Desktop {
     width: 32px;
     height: 32px;
+    top: 20px;
   }
 
   @include Tablet {
     width: 32px;
     height: 32px;
+    top: 20px;
   }
 
   @include Desktop {
@@ -120,9 +124,9 @@
       font-size: 16px;
       line-height: 27px;
       position: absolute;
-      top: -80px;
-      right: 150px;
-      padding-right: 20px;
+      top: -100px;
+      right: 20px;
+      padding-right: 30px;
       opacity: 0;
       pointer-events: none;
       transition: opacity 0.5s;
@@ -144,13 +148,13 @@
       font-size: 16px;
       line-height: 27px;
       padding-top: 10px;
-      padding-right: 20px;
+      padding-right: 30px;
       opacity: 0;
       pointer-events: none;
       transition: opacity 0.5s;
       position: absolute;
-      top: -40px;
-      right: 150px;
+      top: -60px;
+      right: 20px;
     }
 
     &:hover::after {
@@ -170,8 +174,8 @@
       font-size: 16px;
       line-height: 27px;
       position: absolute;
-      top: -80px;
-      right: 150px;
+      top: -100px;
+      right: 20px;
       padding-right: 20px;
       opacity: 0;
       pointer-events: none;
@@ -199,8 +203,8 @@
       pointer-events: none;
       transition: opacity 0.5s;
       position: absolute;
-      top: -40px;
-      right: 150px;
+      top: -50px;
+      right: 20px;
     }
 
     &:hover::after {
